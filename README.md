@@ -43,5 +43,5 @@ Educate, engage, and empower young minds to protect the planet — turning learn
 ---
 
 ## 👤 Author
-**Yash Reddy**  
+**Yashaswi Reddy**  
 Built with 💚 for a greener tomorrow.
